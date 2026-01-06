@@ -1,0 +1,9 @@
+import math
+print(math.sqrt(16) ) 
+c=2-4j
+print(c.real)
+print(c.imag)
+
+n=34.456245
+print(f'n={n}')
+print(f'{n:.3f}')

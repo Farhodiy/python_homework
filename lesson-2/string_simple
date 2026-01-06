@@ -1,0 +1,8 @@
+a='assalomu alaykum' #sequence
+print(len(a))  # length of string
+#sliceing or indexing
+print(a[9:12])  
+print(a[:7]+a[8:])
+print(a[1:14:2])
+print(a[-2])
+print(a[-5:-1])
