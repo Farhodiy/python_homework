@@ -11,20 +11,21 @@
 
 
 # object.method()
-phone = "Samsung s21 ultra s"
-print(phone.lower())
-print(phone.upper())
-print(phone.capitalize())
-print(phone.count('s'))
-print(phone.title())
-print(phone.endswith('s'))
-print(phone.strip())
-print(phone.split())
-print(phone.split(' '))  
-print('-'*50)
-file_name = "mydocument.pdf"
-base_name = file_name.split('.')[0]
-extention = file_name.split('.')[1]
-print(f"{file_name=}")
-print(f"{base_name=}")
-print(f"{extention=}")
+phone = "Samsung s21 ultra s       "
+# print(phone.lower())
+# print(phone.upper())
+# print(phone.capitalize())
+# print(phone.count('s'))
+# print(phone.title())
+# print(phone.endswith('s'))
+print(len(phone))
+print(len(phone.strip())
+# print(phone.split())
+# print(phone.split(' '))  
+# print('-'*50)
+# file_name = "mydocument.pdf"
+# base_name = file_name.split('.')[0]
+# extention = file_name.split('.')[1]
+# print(f"{file_name=}")
+# print(f"{base_name=}")
+# print(f"{extention=}")
