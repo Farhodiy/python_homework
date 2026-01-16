@@ -1,0 +1,13 @@
+Word Count Report
+Total Words: 82
+Top 10 Words:
+a - 3
+to - 3
+data - 3
+in - 3
+it - 3
+the - 3
+structured - 2
+language - 2
+sql - 2
+is - 2

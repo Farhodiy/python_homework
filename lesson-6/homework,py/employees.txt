@@ -1,0 +1,3 @@
+1001, John Doe, Software Engineer, 75000
+1002, Lara Franklin, Marketing agent, 56000
+1003, Brandon Stark, HR, 58000
